@@ -17,5 +17,5 @@ return eval(val1+operation+val2)
     }
     
     
-    console.log(operation("+",1,4));
+    console.log(operation("+",1,9));
     
